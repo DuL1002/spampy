@@ -1,5 +1,5 @@
 #!/usr/bin/python2
-# Author : ./DuLL10
+# Author : ./DuLL1002
 # Team : Cyber Muslim Indonesian( BCA - X666X )
 # Apa Liat Liat ? Mau Recode ? >_<
 # Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
